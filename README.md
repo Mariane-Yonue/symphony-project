@@ -80,5 +80,5 @@ robot PublicAPITestCases.robot
 Finally, to run all tests you can use the following command:
 
 ```
-robot \.
+robot .\
 ```
