@@ -1,0 +1,10 @@
+## Environment
+env/
+
+## Cache
+__pycache__/
+
+## Excluding test results
+*.html
+*.xml
+*.png

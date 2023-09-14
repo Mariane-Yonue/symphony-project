@@ -1,0 +1,12 @@
+HOME:
+  TXT_TITLE_SCREEN: //div[contains(@class, 'login_logo') and text()='Swag Labs']
+  INPUT_USERNAME:   //div[contains(@class, 'form_group')]/input[@data-test='username']
+  INPUT_PASSWORD:   //div[contains(@class, 'form_group')]/input[@data-test='password']
+  BTN_LOGIN:        //input[contains(@class, 'submit-button btn_action')]
+
+INVENTORY:
+  TXT_TITLE_CATEGORY:        //span[contains(@class, 'title') and text()='Products']
+  ICON_CART:               //div[@id="shopping_cart_container"]
+  SELECT_CONTAINER_SORT:   //select[@data-test='product_sort_container']
+  TXT_ACTIVE_SORT:         //span[contains(@class, 'active_option')]
+  TXT_INVENTORY_ITEM_NAME: //div[contains(@class, 'inventory_item_name')]
